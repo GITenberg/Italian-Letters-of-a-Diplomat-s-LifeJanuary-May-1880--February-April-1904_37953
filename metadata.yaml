@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3261
     wikipedia: http://en.wikipedia.org/wiki/Mary_Alsop_King_Waddington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37953#Italian-Letters-of-a-Diplomat-s-LifeJanuary-May-1880--February-April-1904
 gutenberg_issued: '2011-11-08'
 gutenberg_type: Text
 identifiers:
